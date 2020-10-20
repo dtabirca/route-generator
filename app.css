@@ -1,0 +1,16 @@
+html{
+	font-family:Arial;
+}
+.areas{
+	list-style: none;
+}
+a{
+		
+}
+.filter{
+	border: 1px solid black;
+	padding: 10px;
+}
+.leaflet-map {
+	height: 400px;
+}
